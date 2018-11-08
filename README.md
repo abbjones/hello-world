@@ -1,2 +1,2 @@
 # hello-world
-my first repository for Digital Design class (Hi Chad)
+my first repository for Digital Production class (Hi Chad)
